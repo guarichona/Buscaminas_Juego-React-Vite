@@ -1,0 +1,1 @@
+.tablero{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);height:auto;width:auto}.tablero{background:#A1234566;display:grid;grid-template-columns:repeat(20,1fr);grid-template-rows:repeat(10,1fr)}.celda{height:25px;width:25px;margin:1.5px;display:flex;justify-content:center;align-items:center}
